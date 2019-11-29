@@ -28,4 +28,4 @@ python3.5 eval.py sents.out sents.answer
 
 ## Contributors
 
-5. Xudong Shen (xudong.shen@u.nus.edu)
+Xudong Shen (xudong.shen@u.nus.edu)
